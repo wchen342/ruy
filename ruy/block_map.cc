@@ -21,6 +21,7 @@ limitations under the License.
 #ifdef RUY_MAKEBLOCKMAP_DEBUG
 #include <cstdio>
 #include <cstdlib>
+#include <limits>
 #include <string>
 #endif
 
